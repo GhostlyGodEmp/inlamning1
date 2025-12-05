@@ -41,5 +41,6 @@ Detta är en enkel databasdesign för en bokhandel. Systemet hanterar böcker, k
 * En beställning kan innehålla en eller flera böcker.
 * En bok kan förekomma i flera orderrader.
 
+ER-Diagram
 
 <img width="1291" height="618" alt="ER-diagram" src="https://github.com/user-attachments/assets/75d301bb-35af-4f0a-9266-4b2324e18575" />
